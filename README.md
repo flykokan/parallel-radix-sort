@@ -5,7 +5,7 @@ This code was developed as a project assignment for the undergraduate Software &
 Besides the sequential algorithm, three parallel implementations were developed. 
 <ol>
 <li>
-The shared memory paradigm was applied to the first version throuph the OpenMP&reg API. 
+The shared memory paradigm was applied to the first version through the OpenMP&reg API. 
 </li>
 <li>
 The second implementation exploits the Open MPI library project as the message passing paradigm.  
